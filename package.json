@@ -12,6 +12,8 @@
 		"cf-typegen": "wrangler types"
 	},
 	"dependencies": {
+		"@orpc/client": "^1.2.0",
+		"@orpc/server": "^1.2.0",
 		"react": "^19.1.0",
 		"react-dom": "^19.1.0"
 	},
